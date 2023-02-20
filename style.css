@@ -1,0 +1,44 @@
+.container  {
+    position: absolute;
+    margin-left: 45%;
+    padding-top: 20%;
+}
+
+#box1,#box2{
+    float:left;
+    width:32px;
+    background:#F5F5F5;
+    border:#999 1px solid;
+    padding:10px;
+    font-size:24px;
+    text-align:center;
+    margin:5px;
+    border: red solid 3px;
+    background-color: 999;
+}
+
+#zar{
+    height: 3.1rem;
+    width: 9rem;
+    margin-top: 2%;
+    padding: auto;
+    margin-left: 5px;
+    font-size: 20px;
+    border: red solid 3px;
+    background-color: 999;
+
+}
+
+#uyari {
+    position: absolute;
+    text-align: center;
+    margin-left: 45%;
+    margin-top: 17%;
+    font-size: 25px;
+    font: solid;
+    border: red solid 3px;
+    width: 19rem;
+    height: 2rem;
+
+
+}
